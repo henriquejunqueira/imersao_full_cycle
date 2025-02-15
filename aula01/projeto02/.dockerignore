@@ -1,0 +1,8 @@
+# Ignorar diretórios do Go
+bin/
+pkg/
+vendor/
+
+# Ignorar arquivos específicos
+*.log
+*.tmp
